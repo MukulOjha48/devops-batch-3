@@ -1,7 +1,8 @@
 this is a cool feature
+<<<<<<< HEAD
 This is the new feture by mukul
 this is a new code
 This is the forth line by anil
 fifth line ko edit kiya
 added six line
-this is the seventh line
+This is second line by mukul
